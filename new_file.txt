@@ -3,3 +3,6 @@ git test
 add testing message [songchaehyun]
 
 @remote repository update
+
+HW02
+  first commit
