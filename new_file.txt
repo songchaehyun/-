@@ -6,3 +6,4 @@ add testing message [songchaehyun]
 
 HW02
   first commit
+  second commit
